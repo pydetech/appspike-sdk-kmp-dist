@@ -1,0 +1,14 @@
+.DS_Store
+build/
+.gradle/
+.idea/
+.kotlin/
+local.properties
+*.hprof
+
+# Tuist-generated Xcode project for SampleApp/iosApp (regenerate with `tuist generate`)
+*.xcodeproj
+*.xcworkspace
+Derived/
+DerivedData/
+xcuserdata/
